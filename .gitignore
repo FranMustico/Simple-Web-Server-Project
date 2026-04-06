@@ -1,0 +1,5 @@
+/src/obj
+/src/bin
+.vs/
+
+src/Properties/PublishProfiles/FolderProfile.pubxml.user
